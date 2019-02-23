@@ -1,12 +1,12 @@
 /*
- * https://api.thingspeak.com/update?api_key=0CSCWC6HPMI7STEO&field1=5
+ * 
  *
  * 
 */
 #include <ESP8266WiFi.h>
  
 
-String apiKey = "0CSCWC6HPMI7STEO";
+String apiKey = "insert API key here";
 const char* ssid = "AIRTEL_E5172_6534";
 const char* password = "2316DDA1653";
  
